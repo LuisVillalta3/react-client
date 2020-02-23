@@ -1,0 +1,21 @@
+.login-1 {
+  background: linear-gradient(to left, rgba(#000,.5) 0%, rgba(#000,.5) 100%), url('/assets/images/login-fondo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  height: 100vh;
+  position: relative;
+  width: 100%;
+}
+.container {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  width: 100%;
+}
+h1 {
+  text-align: center;
+  margin: 0;
+}
